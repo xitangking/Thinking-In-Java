@@ -8,6 +8,7 @@ import static com.xtwroot.java.util.Print.*;
  * @author 西唐王, xtwyzh@gmail.com,xtwroot.com
  * xtwroot Copyrights (c) 2017. All rights reserved.
  ********************************************************************************/
+
 public class Ex10 {
     public static void main(String[] args)
     {
